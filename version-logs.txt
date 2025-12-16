@@ -1,2 +1,2 @@
-{cen Hi1!
-Hi2!
+{cen {cen Changes
+{cen Added and Updated changes page
